@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+a {
+  margin-right: 10px;
+}
+.starter-template {
+  padding: 100px 150px;
+  text-align: center;
+}
+.welcome {
+  font-weight: bold;
+  font-size: 4em;
+}
+.lead {
+  padding: 10px 0;
+  font-weight: 300;
+}
+.logo {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
